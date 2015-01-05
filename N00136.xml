@@ -110,8 +110,8 @@
    <text xml:lang="eng">
       <body>
          <div type="orders">
-            <pb facs="tcp:000191_0000_0FA3171D4590CE00"/>
-            <pb facs="tcp:000191_0001_0FA3171E073181C8"/>
+            <pb facs="unknown:000191_0000_0FA3171D4590CE00"/>
+            <pb facs="unknown:000191_0001_0FA3171E073181C8"/>
             <head>Several Laws and Orders made at the SECOND SESSIONS of the GENERAL COURT held at Boston in New England the Seventh of October 1674 And printed by their Order Edward Rawson Secr.</head>
             <div type="order">
                <head>BOSTON COMMISSIONERS.</head>
@@ -134,7 +134,7 @@
                   <hi>did Order and Enact that wherein any Town within this Jurisdiction, the Number of Souldiers who by Law are to attend constant trainings shall arise to be two hundred men, that then such Souldiers shall be di<g ref="char:EOLhyphen"/>vided into two Companies, if to three hundred, then to be divided into three Com<g ref="char:EOLhyphen"/>panies.</hi> &amp;c. <hi>Now for as much as it appears by good Information; That most of the Companies in</hi> Boston <hi>do exceed the aforesaid number of two hundred.</hi>
                </p>
                <p>
-                  <pb facs="tcp:000191_0002_0FA3171EC59A20B8"/>
+                  <pb facs="unknown:000191_0002_0FA3171EC59A20B8"/>
 This Court doth hereby Declare, that the former Order of dividing, ought to be forthwith Attended, and that the Major of the Regiment together with the Commission Officers of each Company take speedy Order to see it performed, and to make Returns thereof to the next Court of Election.</p>
             </div>
             <div type="order">
